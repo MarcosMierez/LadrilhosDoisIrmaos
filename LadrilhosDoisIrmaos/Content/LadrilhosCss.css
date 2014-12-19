@@ -1,0 +1,70 @@
+﻿body {
+    background-image: url('Images/la3.jpg');
+    background-repeat: repeat;
+    font-family: 'Segoe UI';
+}
+.container{
+    background-color:#e0e5e5;
+}
+.empresa-logo {
+    padding: 400px 0px 10px 0px;
+    background-image: url('Images/la4.jpg');
+    background-repeat: round;
+}
+#title{
+    font-size:30px;
+    text-shadow:1px 1px 2px #f1e9e9;
+    padding-left:55px;
+}
+.menu-inicial {
+    background-color:#d16305;
+}
+.menu-inicial ul li{
+   display:inline-block;
+   padding:20px;
+   font-size:15px;
+}
+.menu-inicial ul li a{
+    text-decoration:none;
+    color:#4f0b07;
+}
+.menu-inicial ul li a:hover{
+    color:#e1b88e;
+}
+.sub-titulo{
+    color:#f5ff09;
+    font-size:18px;
+    padding-left:350px;
+}
+.col-md-12 img,.col-lg-6 img{
+    float:left;
+    padding:0px 10px 10px 0px;
+}
+h2{
+    font-size:18px;
+   color:#ef7a2d;
+}
+.col-lg-2{
+    position:static;
+}
+.col-lg-6 p{
+    text-align:justify;
+}
+.rodape{
+    padding:50px;
+    background-color:#d16305;
+}
+.rodape p{
+    text-align:center;
+}
+.rodape a{
+    font-size:14px;
+    color:#6c0000;
+    text-decoration:none;
+}
+.rodape a:hover{
+    color:#e1b88e;
+}
+.carousel{
+  width:600px;
+}
